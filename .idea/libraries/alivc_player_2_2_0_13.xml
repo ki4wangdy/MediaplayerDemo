@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="alivc-player-2.2.0.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/alivc-player-2.2.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
