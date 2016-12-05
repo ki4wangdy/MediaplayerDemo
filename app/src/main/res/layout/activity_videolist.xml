@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#0096ff" >
+
+            <TextView
+                android:id ="@+id/listViewTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:paddingBottom="6dp"
+                android:paddingTop="6dp"
+                android:text="@string/file_list_title"
+                android:textSize="22sp" />
+
+         
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/fileListView"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:divider="#eeeeee"
+            android:dividerHeight="1dp"
+            android:choiceMode="singleChoice"
+            android:clickable="true"
+            android:focusable="true"
+            android:drawSelectorOnTop="false">
+        </ListView>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/scanInfoView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#eeeeee"
+        android:maxLines="1"
+        android:paddingBottom="4dp"
+        android:paddingTop="4dp"
+		android:paddingLeft="8dp"
+        android:text="@string/file_list_title"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

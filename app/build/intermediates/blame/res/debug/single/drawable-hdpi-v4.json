@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\border.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\border.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ppt.jpg",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\ic_ppt.jpg"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_file_unknown.jpg",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\ic_file_unknown.jpg"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_style.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\seekbar_style.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_folder.jpg",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\ic_folder.jpg"
+    }
+]

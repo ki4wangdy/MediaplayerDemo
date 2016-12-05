@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videolist.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\activity_videolist.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filechooser_show.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\filechooser_show.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videoitem.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\videoitem.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player_two.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\activity_player_two.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blank.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\activity_blank.xml"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filechooser_gridview_item.xml",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\layout\\filechooser_gridview_item.xml"
+    }
+]

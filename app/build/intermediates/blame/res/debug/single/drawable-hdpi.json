@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_thumb.png",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\seek_thumb.png"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vp_pause.png",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\vp_pause.png"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vp_play.png",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\vp_play.png"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_thumb.png",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\ic_media_thumb.png"
+    },
+    {
+        "merged": "F:\\ki-projects\\alisdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\ki-projects\\alisdk\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

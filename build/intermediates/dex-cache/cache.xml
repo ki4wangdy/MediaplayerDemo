@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\ki-projects\alisdk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1d9f6c6654f49ecd31f7904594926ab12a687245">
+        <dex dex="F:\ki-projects\alisdk\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ebebb7cf45b26bd8dfc81326b4435b4fc6c5484d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\ki-projects\alisdk\app\libs\alivc-player-2.2.0.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bc6614fa0d16193c89bbb110e978dc45931798a3">
+        <dex dex="F:\ki-projects\alisdk\app\build\intermediates\pre-dexed\debug\alivc-player-2.2.0.13_64cfa3983d3e49b606033a9ec92794f7bb037f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\ki-projects\alisdk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8954618c4658e3fbf3832414742acdd71fb5acb2">
+        <dex dex="F:\ki-projects\alisdk\app\build\intermediates\pre-dexed\debug\instant-run_a9d314037386b93765fa212968941ef6409f0ea6.jar" />
+    </item>
+
+</items>
